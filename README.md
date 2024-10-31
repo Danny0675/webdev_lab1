@@ -1,2 +1,2 @@
 # webdev_lab1
-creating webdev_lab1 for demo use
+used in september 1968 fall semester.
